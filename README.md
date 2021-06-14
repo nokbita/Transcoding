@@ -14,7 +14,7 @@ qq交流群：1036865424
 
 #### 使用说明
 
-1. 文件编码转换，支持对单个文件或批星文件进行转换。
+1. 文件编码转换，支持对单个文件或批量文件进行转换。
 2. 支持的文件编码：GB2312，GBK，GB18030，UTF-8，UTF-16LE，UTF-16BE，UTF-8BOM.
 3. 支持的文件扩展名：txt，html，htm，asp，asa，aspx，asax，shtml，cpp，cxx，c，h，rc，pl，pm，cgi，php，java，jsp，js，vbs，vb，css，xml，csproj，xaml，cs，py，rb，erb，rhtml，text，markdown，md，sql.
 4. 特色：
