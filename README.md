@@ -2,15 +2,14 @@
 
 #### 介绍
 
-项目中文名：文件编码转换；
-项目英文名：Transcoding；
-作者：nokbita大雄；
-qq交流群：1036865424
+项目中文名：文件编码转换
+项目英文名：Transcoding
 
 #### 安装教程
 
-- 方式一：项目已打包成Windows平台的exe可执行文件，常规安装即可。
-- 方式二：项目提供免安装解压版，解压后双击Transcoding.exe即可运行。
+- 方式一：项目已打包成Windows平台的exe可执行文件 Transcoding_v0.7.1.exe ，常规安装即可。
+- 方式二：项目提供免安装解压版 Transcoding_v0.7.1.7z ，解压后双击Transcoding.exe即可运行。
+- 安装源：https://github.com/nokbita/Transcoding/releases 。
 
 #### 使用说明
 
