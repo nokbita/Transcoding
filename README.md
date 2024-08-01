@@ -8,9 +8,9 @@
 
 #### 安装教程
 
+- 安装源：https://github.com/nokbita/Transcoding/releases 。
 - 方式一：项目已打包成Windows平台的exe可执行文件 Transcoding_v0.7.1.exe ，常规安装即可。
 - 方式二：项目提供免安装解压版 Transcoding_v0.7.1.7z ，解压后双击 Transcoding.exe 即可运行。
-- 安装源：https://github.com/nokbita/Transcoding/releases 。
 
 #### 使用说明
 
