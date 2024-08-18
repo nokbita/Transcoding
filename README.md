@@ -11,10 +11,10 @@
 
 #### 安装教程
 
-- 安装源：https://github.com/nokbita/Transcoding/releases 。
 - 方式一：项目已打包成Windows平台的exe可执行文件 Transcoding_v0.7.1.exe ，常规安装即可。
 - 方式二：项目提供免安装解压版 Transcoding_v0.7.1.7z ，解压后双击 Transcoding.exe 即可运行。
 - 方式三：项目提供Java字节码文件Jar包 Transcoding_v0.7.1.jar ，在安装有java运行时的电脑环境下可直接运行Jar包。
+- 安装源：https://github.com/nokbita/Transcoding/releases 。
 - 使用教程：https://www.bilibili.com/video/BV18keGeaEzw/?spm_id_from=333.999.0.0 。
 
 #### 其他
